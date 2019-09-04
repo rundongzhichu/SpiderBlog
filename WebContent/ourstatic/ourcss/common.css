@@ -1,0 +1,17 @@
+#header,#header .toggle-tougao,.two-s-footer .footer-box{background-color:#000;}
+#header .primary-menu ul > li > a, #menu-mobile a,
+#header .js-toggle-message button,
+#header .js-toggle-search,
+#header .toggle-login,
+#header .toggle-tougao{color:#bdbdbd;}
+.navbar-toggle .icon-bar{background-color:#bdbdbd;}
+#header .primary-menu ul > li.current-menu-item > a,
+#header .primary-menu ul > li.menu-item-has-children:hover > a,
+#header .primary-menu ul > li.current-menu-ancestor > a,
+#header .primary-menu ul > li >a:hover{color:#FFF;}
+#header .toggle-tougao:hover,
+#header .primary-menu ul > li .sub-menu li a:hover,
+#header .primary-menu ul > li .sub-menu li.menu-item-has-children:hover > a,
+#header .primary-menu ul > li .sub-menu li.current-menu-item > a{color:#000;}
+#header .toggle-tougao,#header .toggle-tougao:hover{border-color:#bdbdbd;}
+#header .toggle-tougao:hover{background-color:#FFF;
